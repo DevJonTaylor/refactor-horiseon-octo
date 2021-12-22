@@ -6,9 +6,6 @@ the css.  I feel was successful as I was able to include main, section, article,
 nav to name a few without loosing the requested mock up display.  You can reach the 
 finished product [here](https://devjontaylor.github.io/urban-octo-telegram/).
 
-
-
-
 ## Installation
 
 ### Download Zip
