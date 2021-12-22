@@ -1,6 +1,6 @@
 
 # Horiseon Code Refactor Challenge
-![HTML 66.5% Badge](https://img.shields.io/badge/HTML-66.5%25-brightgreen) ![CSS 33.5% Badge](https://img.shields.io/badge/CSS-33.5%25-blue)
+![HTML 66.7% Badge](https://img.shields.io/badge/HTML-66.7%25-brightgreen) ![CSS 33.3% Badge](https://img.shields.io/badge/CSS-33.3%25-blue)
 
 This project's goal was refactor the code to include semantic HTML and organize/otimize 
 the css.  I feel was successful as I was able to include main, section, article, and 
