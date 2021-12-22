@@ -5,7 +5,7 @@
 This project's goal was refactor the code to include semantic HTML and organize/otimize 
 the css.  I feel was successful as I was able to include main, section, article, and 
 nav to name a few without loosing the requested mock up display.  You can reach the 
-finished product [here](https://devjontaylor.github.io/urban-octo-telegram/).
+finished product [here](https://devjontaylor.github.io/refactor-horiseon-octo/).
 
 ## Installation
 
@@ -17,7 +17,7 @@ then selecting Download Zip option a the button shown below.
 ### Clone
 You can follow the commands below and install it this way.
 ```bash
-  git clone https://github.com/DevJonTaylor/urban-octo-telegram.git
+  git clone https://github.com/DevJonTaylor/refactor-horiseon-octo.git
   cd urban-octo-telegram
 ```
 
